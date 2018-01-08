@@ -1,0 +1,14 @@
+Contacts List
+
+C.E.O.	
+ceo@garadge.com
+
+Director	
+director@garadge.com
+
+Manager	
+manager@garadge.com
+
+Partner	
+partner@garadge.com
+

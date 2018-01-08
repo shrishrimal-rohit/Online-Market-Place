@@ -1,0 +1,22 @@
+Hotels:
+
+filter=0 (no-filter)
+filter=1 && starValue (filter on star)
+filter=2 && minPrice and maxPrice (filter on price)
+filter=3  (both)
+
+Flights:
+
+filter=1 && departureTime && arrivalTime (filter on departure and arrival)
+filter=2 && minPrice and maxPrice (filter on price)
+filter=3 (both)
+
+Car:
+
+filter=0 (no-filter)
+filter=1 carType (filter on carType)
+filter=3 (both)
+filter=2 && minPrice and maxPrice (filter on Price)
+
+
+change img url
